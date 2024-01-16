@@ -12,7 +12,7 @@ Python. It contains
   An easy-to-use licensing framework with a great API for your developers and
   a beautiful CLI for your users.
 
-- [License Creator](https://github.com/stonefish-dev/code-shield):
+- [License Creator](https://github.com/stonefish-dev/license-creator):
   A helper package for easily creating licenses for your software.
 
 For inquiries about integrating Stonefish into your workflow, reach out to
